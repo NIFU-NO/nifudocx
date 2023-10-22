@@ -1,5 +1,8 @@
 # Nifudocx Format
 Template for rendering .qmd files according to NIFU publication style in a Word-document.
+
+WORK IN PROGRESS!
+
 NOTE: For PDF-generation, use the [nifutypst-extension](http://www.github.com/NIFU-NO/nifutypst).
 
 ## Installing
