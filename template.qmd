@@ -1,0 +1,16 @@
+---
+title: Untitled
+format:
+  nifudocx-docx: default
+author: Stephan Daus
+date: 2023-09-27
+
+---
+
+# Innledning
+
+## Mandatet
+
+# Metode
+
+# Resultater
