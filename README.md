@@ -5,6 +5,9 @@ WORK IN PROGRESS!
 
 NOTE: For PDF-generation, use the [nifutypst-extension](http://www.github.com/NIFU-NO/nifutypst).
 
+## Limitations
+See [Issues](http://www.github.com/NIFU-NO/nifudocx/issues)
+
 ## Installing
 
 ```bash
