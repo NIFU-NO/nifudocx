@@ -3,7 +3,7 @@ Template for rendering .qmd files according to NIFU publication style in a Word-
 
 WORK IN PROGRESS!
 
-NOTE: For PDF-generation, use the [nifutypst-extension](http://www.github.com/NIFU-NO/nifutypst).
+NOTE: For PDF-generation, in the future it will be possible to use the [nifutypst-extension](http://www.github.com/NIFU-NO/nifutypst) directly.
 
 ## Limitations
 See [Issues](http://www.github.com/NIFU-NO/nifudocx/issues)
